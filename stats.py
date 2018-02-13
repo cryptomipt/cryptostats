@@ -2,7 +2,7 @@ import ccxt
 import time
 import colored
 
-from consts import MIN_BTC_AMOUNT, BASE_TICKERS
+from .consts import MIN_BTC_AMOUNT, BASE_TICKERS
 
 
 def login_all(keys):
