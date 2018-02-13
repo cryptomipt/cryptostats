@@ -1,0 +1,14 @@
+[
+    {
+        "Description": "MyHodlWallet",
+        "Exchange": "Binance",
+        "Key": "this_is_my_api_key",
+        "Secret": "this_is_my_secret_key"
+    },
+    {
+        "Description": "MyTradingWallet",
+        "Exchange": "Bittrex",
+        "Key": "this_is_my_another__api_key",
+        "Secret": "this_is_my_another_secret_key"
+    }
+]
